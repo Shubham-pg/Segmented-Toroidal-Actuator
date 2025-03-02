@@ -36,10 +36,11 @@ npm start  # or python main.py
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage Screenshot](images/homepage.png)
+![Homepage Screenshot](image001 - Copy.png)
 
 ### Feature in Action
 ![Feature Screenshot](images/feature.png)
+image001 - Copy.png
 
 ## 📄 Documentation
 
