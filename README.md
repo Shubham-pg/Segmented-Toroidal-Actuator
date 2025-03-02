@@ -1,7 +1,8 @@
 "# Segmented Toroidal Actuator" 
   # Project Title
 
-![Project Banner](images/banner.png)
+![Project Banner](image010.jpg)
+
 
 ## 🌟 Introduction
 
