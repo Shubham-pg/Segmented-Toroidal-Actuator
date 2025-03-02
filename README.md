@@ -11,7 +11,7 @@
 ---
 
 ## CAD View of the Model
-![CAD View](placeholder_cad_image.png)
+![CAD View](Images/image021.gif)
 
 ## Actual Image of the Prototype
 ![Prototype](placeholder_prototype_image.png)
