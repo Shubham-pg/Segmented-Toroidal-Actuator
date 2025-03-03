@@ -52,13 +52,141 @@ Its working principle is based on a typical hydraulic cylinder actuator, in whic
 ---
 
 <div align="center">
-  <img src="xyz/image006.jpg" width="500">
+  <img src="xyz/image006.png" width="500">
   <p><i>Illustration of the Working Principle</i></p>
 </div>
 
 ---
 
 When the fluid is pumped into the respective holes, it enters the chamber created between the cylinder and piston, sealed by the oil seals of the piston and bifurcated by the oil seal of the inner rod. This fluid exerts pressure on all the walls, producing force against the piston’s closing wall, forcing it to move. Similarly, the fluid is pumped via another hole into the other chamber in the next stroke to create backward motion. Thus, the **forward and backward motion** of the piston is achieved using **hydraulic fluid pressure**.
+
+## **BASIC METHODOLOGY OF OPERATION AND WORKING**
+The same principle is used to take the output of this device, where the hydraulic fluid is pumped into **hole1**, which appears in the chamber between the piston and inner rod on one side of the piston, causing the chamber to expand. As a result, the **flange attached to the piston moves on a circular track**, creating the **forward motion stroke** of the actuator mechanism.  
+
+Similarly, the fluid is pumped into **hole2** (keeping hole1 at zero pressure to drain the accumulated fluid). This fluid appears in the chamber but on the other side of the piston, causing the expansion of this chamber and collapsing the previous chamber, accounting for the **backward stroke**. This **piston motion** is transferred to the flange, causing it to move on the **same circular track** for the backward stroke.
+
+---
+
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center"><b>Forward Stroke</b></td>
+      <td align="center"><b>Backward Stroke</b></td>
+    </tr>
+    <tr>
+      <td><img src="xyz/image008.png" width="400"></td>
+      <td><img src="xyz/image007.png" width="400"></td>
+    </tr>
+  </table>
+</div>
+
+## **APPLICATIONS**
+
+### **• Heavy Dumping Equipment**
+The entanglement of the telescopic hydraulic cylinder under tangential force can be avoided by using a **curved hydraulic cylinder**. The structure of our design is completely **rigid and confined** to its trajectory. Hence, it can bear **significant tangential and other forces** on its actuation end (flange) and transfer these forces throughout the outer cylinder into the supporting structure.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Telescopic Cylinder</b></td>
+      <td align="center"><b>Entanglement and Failure of Telescopic Cylinder under heavy Tangential Load</b></td>
+    </tr>
+    <tr>
+      <td><img src="xyz/image009.png" width="400"></td>
+      <td><img src="xyz/image010.png" width="400"></td>
+    </tr>
+  </table>
+</div>
+
+This entanglement can be avoided by using our structure. Moreover, the system can bear **significant tangential forces**.
+
+<div align="center">
+  <img src="xyz/image011.png" width="800">
+</div>
+
+---
+
+### **• Extended Motion to Hinge**
+The hydraulic cylinders used for actuation of gates and doors typically **work up to 90 degrees**. Our **curved hydraulic cylinder** can be used to **extend the motion up to 180 degrees**.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Restricted 90-degree Motion of Conventional Cylinder</b></td>
+      <td align="center"><b>Extended Motion Up to 180 Degrees</b></td>
+    </tr>
+    <tr>
+      <td><img src="xyz/image012.png" width="400"></td>
+      <td><img src="xyz/image013.png" width="400"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### **• Direct Hinge and Actuator Replacement**
+The system can be used as an **extended piston from the cylinder body** instead of a flange for actuation. In this mechanism, the **extended piston body itself acts as the actuator**.
+
+The mechanisms used for **hinged actuation** are generally **geared mechanisms**, which are unsuitable for heavy doors due to mechanical limitations. Heavy loads **break the teeth of gears and actuating rods**. Our system can be used with an **extended piston structure** to operate between two faces, where the piston itself serves as the actuating element.
+
+The **roller cage mechanism** itself works as a hinge, **eliminating the need for a separate hinge**.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Conventional Gear Hinge Mechanism</b></td>
+      <td align="center"><b>Curved Hydraulic Cylinder as Hinge</b></td>
+    </tr>
+    <tr>
+      <td><img src="xyz/image014.png" width="400"></td>
+      <td><img src="xyz/image015.png" width="400"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### **• Heavy Actuation of Bunker Gates**
+Heavy loads, such as **bunker gates and dam gates**, require **high-strength conventional hydraulic cylinders**. The **heavy weight of the piston-cylinder mechanism** causes the piston to **tilt under gravity**, leading to **failure of hydraulic seals** and ultimately, **hydraulic system failure**.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Heavy Bunker Gate Actuation</b></td>
+      <td align="center"><b>Banking of Piston Under Its Own Weight</b></td>
+    </tr>
+    <tr>
+      <td><img src="xyz/image016.png" width="400"></td>
+      <td><img src="xyz/image017.png" width="400"></td>
+    </tr>
+  </table>
+</div>
+
+This system can be replaced with our curved hydraulic cylinder, which can **bear significant tangential loads** as well as **heavy actuating loads**.
+
+<div align="center">
+  <img src="xyz/image018.jpg" width="800">
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## CAD View of the Model
 ![CAD View](xyz/image001.png)
