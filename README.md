@@ -10,6 +10,56 @@
 
 ---
 This invention introduces a curved hydraulic cylinder for hinge actuation in limited spaces, overcoming differential circular motion issues in conventional linear cylinder setups. It features a solid segmented toroidal inner rod, a shorter segmented toroidal piston, a unique three-seal placement, and a conical roller with a cage structure for smooth piston gliding. The design overcomes issues such as telescopic piston banking, seal wear, and large fluid volume requirements in heavier cylinders while achieving up to 180° motion.
+
+## Model Representation
+
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center"><b>CAD View of the Model</b></td>
+      <td align="center"><b>Actual Image of the Prototype</b></td>
+    </tr>
+    <tr>
+      <td><img src="xyz/image001.png" width="400"></td>
+      <td><img src="xyz/image002.jpg" width="400"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## Different Views
+
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center"><b>Front View</b></td>
+      <td align="center"><b>Side View</b></td>
+      <td align="center"><b>Top View</b></td>
+    </tr>
+    <tr>
+      <td><img src="xyz/image003.jpg" width="300"></td>
+      <td><img src="xyz/image004.jpg" width="300"></td>
+      <td><img src="xyz/image005.jpg" width="300"></td>
+    </tr>
+  </table>
+</div>
+
+## **WORKING PRINCIPLE**
+It is a hydraulic cylinder actuator mechanism which provides motion on a circular trajectory using hydraulic pressure.  
+Its working principle is based on a typical hydraulic cylinder actuator, in which a hydraulic pump delivers pressurized fluid that appears between the piston and cylinder chamber, causing it to expand. The expanding chamber motion is taken as the movement of the piston, thus acting as the actuator's output.
+
+---
+
+<div align="center">
+  <img src="xyz/image006.jpg" width="500">
+  <p><i>Illustration of the Working Principle</i></p>
+</div>
+
+---
+
+When the fluid is pumped into the respective holes, it enters the chamber created between the cylinder and piston, sealed by the oil seals of the piston and bifurcated by the oil seal of the inner rod. This fluid exerts pressure on all the walls, producing force against the piston’s closing wall, forcing it to move. Similarly, the fluid is pumped via another hole into the other chamber in the next stroke to create backward motion. Thus, the **forward and backward motion** of the piston is achieved using **hydraulic fluid pressure**.
+
 ## CAD View of the Model
 ![CAD View](xyz/image001.png)
 
