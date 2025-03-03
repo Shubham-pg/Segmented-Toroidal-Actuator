@@ -1,15 +1,15 @@
-# DOUBLE ACTING CURVED HYDRAULIC CYLINDER
+# Segmented Toroidal Actuator
 
-## Institute
-**Sant Longowal Institute of Engineering and Technology**
+## Patent Application Number - 202411029477
+**Published in Journal Number- 19/2024, Date: 10/05/2024 -Indian Patent Office**
 
 ## Applied by
-- **Ma. Shubham Puri Goswami** (Reg. No.: GEE/2040317)
+- **Ma. Shubham Puri Goswami**
 - **Prof. Ajat Shatru Arora**
 - **Prof. Surita Maini**
 
 ---
-
+This invention introduces a curved hydraulic cylinder for hinge actuation in limited spaces, overcoming differential circular motion issues in conventional linear cylinder setups. It features a solid segmented toroidal inner rod, a shorter segmented toroidal piston, a unique three-seal placement, and a conical roller with a cage structure for smooth piston gliding. The design overcomes issues such as telescopic piston banking, seal wear, and large fluid volume requirements in heavier cylinders while achieving up to 180° motion.
 ## CAD View of the Model
 ![CAD View](Images/image021.gif)
 
