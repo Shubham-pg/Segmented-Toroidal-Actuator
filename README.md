@@ -11,7 +11,7 @@
 ---
 This invention introduces a curved hydraulic cylinder for hinge actuation in limited spaces, overcoming differential circular motion issues in conventional linear cylinder setups. It features a solid segmented toroidal inner rod, a shorter segmented toroidal piston, a unique three-seal placement, and a conical roller with a cage structure for smooth piston gliding. The design overcomes issues such as telescopic piston banking, seal wear, and large fluid volume requirements in heavier cylinders while achieving up to 180° motion.
 ## CAD View of the Model
-![CAD View](TITLE - Copyg_files/image001.png)
+![CAD View](TITLE-Copyg_files/image001.png)
 
 ## Actual Image of the Prototype
 ![Prototype](Images/image002.jpg)
