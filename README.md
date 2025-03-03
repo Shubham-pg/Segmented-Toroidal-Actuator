@@ -14,7 +14,7 @@
 ![CAD View](Images/image021.gif)
 
 ## Actual Image of the Prototype
-![Prototype](placeholder_prototype_image.png)
+![Prototype](Images/image004.jpg)
 
 ---
 
