@@ -106,6 +106,8 @@ This entanglement can be avoided by using our structure. Moreover, the system ca
 
 ---
 
+### **• Compact Hinge Actuation of Excavators and Dumping Equipments**
+
 ### **• Extended Motion to Hinge**
 The hydraulic cylinders used for actuation of gates and doors typically **work up to 90 degrees**. Our **curved hydraulic cylinder** can be used to **extend the motion up to 180 degrees**.
 
@@ -165,9 +167,135 @@ Heavy loads, such as **bunker gates and dam gates**, require **high-strength con
 This system can be replaced with our curved hydraulic cylinder, which can **bear significant tangential loads** as well as **heavy actuating loads**.
 
 <div align="center">
-  <img src="xyz/image018.jpg" width="800">
+  <img src="xyz/image018.png" width="800">
+</div>
+## **PARTS**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>De-constructed View of Prototype</b></td>
+    </tr>
+    <tr>
+      <td><img src="xyz/image019.png" width="800"></td>
+    </tr>
+  </table>
 </div>
 
+---
+
+### **Piston and Inner Rod**
+The **holes 1 and 2** start from the **end cap** of the **inner rod** and go all the way inside the inner rod to appear at its surface, as shown.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Piston</b></td>
+      <td align="center"><b>Inner Rod</b></td>
+    </tr>
+    <tr>
+      <td><img src="xyz/image020.png" width="400"></td>
+      <td><img src="xyz/image021.png" width="400"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## **INTERNAL WORKING**
+To overcome the **friction** encountered by the piston while following the **circular trajectory** marked and defined by the **outer cylinder**, the **piston is supported by a set of rollers**, guiding it along the circular path. This **outer cylinder** serves solely to **define and constrain the motion** of the piston. **Hydraulics are not part of this guiding system**—it is a purely mechanical setup aimed at eliminating **sliding friction** between the piston and other parts of the actuator mechanism. The **rollers** act as constrained gears, rolling **between the inner surface of the outer cylinder and the outer surface of the piston**.
+
+---
+### **De-constructed Piston**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>De-constructed Piston and Outer Cylinder</b></td>
+    </tr>
+    <tr>
+      <td><img src="xyz/image022.png" width="400"></td>
+    </tr>
+  </table>
+</div>
+
+
+The **inner surface of the outer curved cylinder** has **grooves cut** into it, mirrored on the **outer surface of the piston**. The grooves create **housings for rollers**, ensuring **smooth gliding of the piston** within the constrained trajectory.
+
+### **Outer Cylinder**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Outer Cylinder</b></td>
+    </tr>
+    <tr>
+      <td><img src="xyz/image023.png" width="400"></td>
+    </tr>
+  </table>
+</div>
+
+When the **piston is forced by the hydraulic mechanism**, it **glides on the rolling surface provided by the rollers**. These **rollers move along the defined circular trajectory** of the outer cylinder, creating **perfect rolling motion** between the piston and the cylinder. Since rollers are eventually **no longer supported on the piston surface**, a **cage structure holds the rollers in position**. The **cage moves along with the rollers** as the piston moves forward.
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="xyz/image024.png" width="400"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## **ROLLER AND CAGE STRUCTURE**
+The **rollers have a circular groove** cut along their circumference, fitting into an **identical slot in the cage structure**. The dimensions of the **roller groove** and **cage slot** are identical, allowing **secure placement** while enabling the rollers to **rotate freely along their vertical axis**.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Cage Structure</b></td>
+      <td align="center"><b>Roller Structure</b></td>
+    </tr>
+    <tr>
+      <td><img src="xyz/image025.png" width="400"></td>
+      <td><img src="xyz/image026.png" width="400"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### **Assembled Roller Cage Structure**
+The **cage has circular bumps along its rim**, fitting into the **slots cut along the inner surface of the outer cylinder and the outer surface of the piston**. These **bumps keep the roller cage in position**, ensuring **smooth movement** along the cavity between the **outer cylinder and piston**.
+
+This design further **enhances contact between the roller, the inner cylinder surface, and the outer piston surface**, enabling **smooth gliding motion**. The **cage and rollers work as constrained gears**, ensuring **seamless movement along the defined circular path**.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Assembled Roller Cage Structure</b></td>
+    </tr>
+    <tr>
+      <td><img src="xyz/image027.png" width="800"></td>
+    </tr>
+  </table>
+</div>
+
+## **MATHEMATICS OF CURVED TRAJECTORY**
+
+### **Perfect Rolling Between Two Slanted Surfaces on a Circular Trajectory**
+<div align="center">
+  <img src="xyz/image028.gif" width="500">
+</div>
+
+The motion of the moving surface follows a circular path around a reference axis, with the supporting surfaces inclined to the horizontal flat plane. This results in the rollers moving on a **banked circular track**. To maintain this trajectory, the rollers are **frustum-shaped**, allowing a continuous gradient in diameter. This ensures **perfect rolling motion** on the slanted lower track.
+
+In this system:
+- The **rollers revolve** around the reference axis on a flat plane.
+- The **rollers rotate** on their own axis to traverse the path.
+- A **curved upper surface** glides smoothly on the rollers.
+- The rollers act as a **geared coupling** between the stationary lower and upper slanted curved surfaces.
+
+This ensures **perfect rolling motion** of the upper surface over the stationary lower surface.
+
+---
 
 
 
