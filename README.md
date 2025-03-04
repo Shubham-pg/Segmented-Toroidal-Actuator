@@ -282,7 +282,7 @@ This design further **enhances contact between the roller, the inner cylinder su
 
 ### **Perfect Rolling Between Two Slanted Surfaces on a Circular Trajectory**
 <div align="center">
-  <img src="xyz/image028.gif" width="500">
+  <img src="xyz/image029.gif" width="500">
 </div>
 
 The motion of the moving surface follows a circular path around a reference axis, with the supporting surfaces inclined to the horizontal flat plane. This results in the rollers moving on a **banked circular track**. To maintain this trajectory, the rollers are **frustum-shaped**, allowing a continuous gradient in diameter. This ensures **perfect rolling motion** on the slanted lower track.
@@ -296,6 +296,40 @@ In this system:
 This ensures **perfect rolling motion** of the upper surface over the stationary lower surface.
 
 ---
+
+### **Structural Drawing for the Above System**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Structural Drawing for the Above System</b></td>
+      <td align="center"><b>Fig - 1</b></td>
+    </tr>
+    <tr>
+      <td><img src="xyz/image030.png" width="400"></td>
+      <td><img src="xyz/fig1" width="400"></td>
+    </tr>
+  </table>
+</div>
+
+### **Mathematical Formulation as per fig-1**
+<div align="center">
+  <img src="xyz/matheuqtion" width="500">
+</div>
+
+## MOTION OF PISTON IN CYLINDER
+
+A mechanism similar to the above-mentioned mechanism is applied between the inner surface of the cylinder and the outer surface of the piston. The grooves cut into the inner surface of the cylinder work as stationary support surfaces for the rollers to roll, while the grooves cut into the outer surface of the piston tend to glide the piston along the rolling surface of the rollers. This mechanism is deployed at a continuous interval of 45 degrees. Thus, 4 roller sets roll to provide perfect rolling between the cylinder and piston surface. The flange attached to the piston extends via the slit in the outer cylinder to transmit the piston motion to the outer environment.
+
+### Motion of piston in the cylinder
+
+<div align="center">
+  <img src="xyz/image31.gif" width="600">
+</div>
+
+| **Piston at initial position** | **Piston at mid position** | **Piston at final position** |
+|:-----------------------------:|:-------------------------:|:--------------------------:|
+| **Flange position** <br> **Roller cage position** | **Flange position** <br> **Roller cage position** | **Flange position** <br> **Roller cage position** |
+| <img src="xyz/image032.png" width="250"> <br> <img src="xyz/image033.png" width="250"> | <img src="xyz/image034.png" width="250"> <br> <img src="xyz/image035.png" width="250"> | <img src="xyz/image036.png" width="250"> <br> <img src="xyz/image037.png" width="250"> |
 
 
 
