@@ -323,13 +323,13 @@ A mechanism similar to the above-mentioned mechanism is applied between the inne
 ### Motion of piston in the cylinder
 
 <div align="center">
-  <img src="xyz/image31.gif" width="600">
+  <img src="xyz/image031.gif" width="600">
 </div>
 
 | **Piston at initial position** | **Piston at mid position** | **Piston at final position** |
 |:-----------------------------:|:-------------------------:|:--------------------------:|
-| **Flange position** <br> **Roller cage position** | **Flange position** <br> **Roller cage position** | **Flange position** <br> **Roller cage position** |
-| <img src="xyz/image032.png" width="250"> <br> <img src="xyz/image033.png" width="250"> | <img src="xyz/image034.png" width="250"> <br> <img src="xyz/image035.png" width="250"> | <img src="xyz/image036.png" width="250"> <br> <img src="xyz/image037.png" width="250"> |
+| **Flange position** <br> <img src="xyz/image032.jpg" width="250"> | **Flange position** <br> <img src="xyz/image034.jpg" width="250"> | **Flange position** <br>  <img src="xyz/image036.jpg" width="250"> |
+| **Roller cage position**  <br> <img src="xyz/image033.jpg" width="250"> | **Roller cage position** <br> <img src="xyz/image035.jpg" width="250"> | **Roller cage position** <br> <img src="xyz/image037.jpg" width="250"> |
 
 
 
